@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Userflux
 {
-    class Data
+    public class Data
     {
         private int id;
         private int user_id;
